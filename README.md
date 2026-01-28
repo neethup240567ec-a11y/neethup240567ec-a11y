@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Neethu 👋  
 
-<!--
-**neethup240567ec-a11y/neethup240567ec-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PhD Scholar | 💻 AI & Image Processing  
+📍 India | 🌍 Aspiring global researcher  
 
-Here are some ideas to get you started:
+## 🔥 About Me
+- Interested in **Machine Learning & Computer Vision**
+- Building projects in **Python, OpenCV, Deep Learning**
+- Exploring **research + tech creativity**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python
+- OpenCV
+- TensorFlow / PyTorch
+- Git & GitHub
+
+## 📌 Projects
+- 🖼️ Image Processing Project  
+- 🤖 ML Model Training  
+
+## 📫 Connect with me
+- Instagram: @yourhandle  
+- LinkedIn: your link
+
