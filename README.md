@@ -19,6 +19,6 @@
 - 🤖 ML Model Training  
 
 ## 📫 Connect with me
-- Instagram: @yourhandle  
-- LinkedIn: your link
+
+- LinkedIn:linkedin.com/in/neethusukumaranm
 
