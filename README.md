@@ -26,12 +26,13 @@ Power BI
 
 # Featured Projects
 
-# 1. MelanoScope — Explainable Medical AI with LLM Grounding
+### 1. 🩺 MelanoScope — Explainable Medical AI with LLM Grounding
 **Computer Vision + NLP + AI Safety**
 - Built end-to-end skin lesion analysis pipeline: segmentation → ABCD features → LLM report → automated hallucination checker
 - Implemented custom LLCH + Mean Shift segmentation (92% Dice coefficient)
 - Novel contribution: automated fact-checking of LLM-generated medical reports before showing to users
-- [View Project →](./05-melanoscope-explainable-llm-grounded
+- [View Project →](./05-melanoscope-explainable-llm-grounded)
+
 
 # 3.  Real-Time Object Detection System
 **Production Deployment + YOLO + FastAPI**
